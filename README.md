@@ -1,5 +1,5 @@
 # **Real time emotion detection**
-The emotion of a human can be predicted through his facial expression. The emotion indicates how a human feel at any particular moment which can be used to rate the customers reaction to a particular product/service. The model has validation accuracy of 98.48 , trained using ck+ dataset<br />
+
 
 ## **Emotion Class**
 'sad','fear','contempt','disgust','surprise','anger','happy'
